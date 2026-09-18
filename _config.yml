@@ -16,8 +16,7 @@ url: "https://mblaauboer.github.io"
 include:
   - .htaccess
   - _pages
-  - _data
-
+  
 sass:
   sass_dir: _sass
 
