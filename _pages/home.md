@@ -8,7 +8,9 @@ permalink: /
 
 In our group, we investigate quantum dynamical processes and transport of quantum information in nanoscale systems. We use analytical and numerical methods to study quantum phenomena in a variety of settings, such as quantum state routing in superconducting-qubit architectures and energy transfer in entangled spin systems.
 
-Our research spans fundamental problems at a relatively high level of abstraction - such as scrambling of quantum information in interacting qubit systems - as well as more application-oriented theoretical problems, including how to optimally implement desired two-qubit gates using a limited set of available interactions. A more detailed description of our recent research can be found [here](https://www.allanlab.org/vacancies). A complete list of our publications is available [here](https://www.allanlab.org/vacancies).
+Our research spans fundamental problems at a relatively high level of abstraction - such as scrambling of quantum information in interacting qubit systems - as well as more application-oriented theoretical problems, including how to optimally implement desired two-qubit gates using a limited set of available interactions. 
+
+A more detailed description of our recent research can be found [here](https://www.allanlab.org/vacancies). A complete list of our publications is available [here](https://www.allanlab.org/vacancies).
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
