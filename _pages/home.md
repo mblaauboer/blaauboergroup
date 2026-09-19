@@ -6,6 +6,8 @@ sitemap: false
 permalink: /
 ---
 
+This site is currently under construction.
+
 In our group, we investigate quantum dynamical processes and transport of quantum information in nanoscale systems. We use analytical and numerical methods to study quantum phenomena in a variety of settings, such as quantum state routing in superconducting-qubit architectures and energy transfer in entangled spin systems.
 
 Our research spans fundamental problems at a relatively high level of abstraction - such as scrambling of quantum information in interacting qubit systems - as well as more application-oriented theoretical problems, including how to optimally implement desired two-qubit gates using a limited set of available interactions. 
@@ -19,10 +21,6 @@ A more detailed description of our recent research can be found [here](https://w
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->
@@ -46,13 +44,6 @@ A more detailed description of our recent research can be found [here](https://w
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-
-We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).
-
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
-
-
 
 
 
