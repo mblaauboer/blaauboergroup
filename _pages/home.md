@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-This site is currently under construction.
+**This site is currently under construction**
 
 In our group, we investigate quantum dynamical processes and transport of quantum information in nanoscale systems. We use analytical and numerical methods to study quantum phenomena in a variety of settings, such as quantum state routing in superconducting-qubit architectures and energy transfer in entangled spin systems.
 
