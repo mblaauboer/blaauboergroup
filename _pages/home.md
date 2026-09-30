@@ -45,7 +45,7 @@ A more detailed description of our recent research can be found [here](https://w
   </a>
 </div>
 
-<figure class="third">
+<figure class="second">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logoTUD.png" style="width: 200px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logodept.png" style="width: 200px">
 </figure>
