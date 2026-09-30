@@ -45,8 +45,7 @@ A more detailed description of our recent research can be found [here](https://w
   </a>
 </div>
 
-<figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logoTUD.png" style="width: 180px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logodept.png" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SuperC_logo.png" style="width: 100px">
+<figure class="third">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logoTUD.png" style="width: 250px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logodept.png" style="width: 200px">
 </figure>
