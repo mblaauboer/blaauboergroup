@@ -45,12 +45,8 @@ A more detailed description of our recent research can be found [here](https://w
   </a>
 </div>
 
-
-
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logoTUD.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logodept.jpg" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Tschira.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logoTUD.png" style="width: 180px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logodept.png" style="width: 140px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SuperC_logo.png" style="width: 100px">
 </figure>
