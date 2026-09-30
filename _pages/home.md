@@ -46,6 +46,6 @@ A more detailed description of our recent research can be found [here](https://w
 </div>
 
 <figure class="third">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logoTUD.png" style="width: 250px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logoTUD.png" style="width: 200px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logodept.png" style="width: 200px">
 </figure>
