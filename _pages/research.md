@@ -15,6 +15,6 @@ Our group does theoretical research on dynamic phenomena in quantum-mechanical s
 **Quantum state transfer** -  We are also nterested in transport of quantum states through quantum devices that can serve as quantum data buses. One example is the development of (super)adiabatic protocols for achieving quantum state transfer with, in principle, very high accuracy and minimal control [link Rodrigo].
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
+# ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
 
 
