@@ -12,7 +12,7 @@ In our group, we investigate quantum dynamical processes and transport of quantu
 
 Our research spans fundamental problems at a relatively high level of abstraction - such as scrambling of quantum information in interacting qubit systems - as well as more application-oriented theoretical problems, including how to optimally implement desired two-qubit gates using a limited set of available interactions. 
 
-A more detailed description of our recent research can be found [here](https://mblaauboer.github.io/blaauboergroup/research). A complete list of our publications is available [here](https://www.allanlab.org/vacancies).
+A more detailed description of our recent research can be found [here](https://mblaauboer.github.io/blaauboergroup/research). A complete list of our publications is available [here](https://mblaauboer.github.io/blaauboergroup/publications).
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
