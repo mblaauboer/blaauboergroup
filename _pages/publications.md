@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Publications"
+title: "Blaauboer Group - Publications"
 layout: gridlay
 excerpt: "Blaauboer Group -- Publications."
 sitemap: false
