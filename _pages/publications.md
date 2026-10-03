@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-**TEST At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
+**TEST At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/advanced?terms-0-term=Blaauboer%2C+M&terms-0-field=author&size=50&order=-announced_date_first).**    
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
