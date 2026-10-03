@@ -1,12 +1,14 @@
 ---
-title: "Allan Lab - Research"
+title: "Blaauboer Group - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Blaauboer Group -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
+
+Our group does theoretical research on dynamic phenomena in quantum-mechanical systems at the nanoscale, with a particular focus on transfer and transport of quantum information. We often us e a combination of analytical and numerical techniques. Examples of research topics we are interested in are: 
 
 Updating soon -- stay put. (Aug 11 2023)
 
