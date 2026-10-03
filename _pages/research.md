@@ -12,10 +12,13 @@ Our group conducts theoretical research on dynamical phenomena in nanoscale quan
 
 **Distribution and routing of quantum information** - Understanding how quantum information—particularly entanglement—is distributed across interacting quantum systems, and how this process can be used to steer and control the flow of information, remains an open challenge. We study problems such as the design and analysis of optimal quantum-routing operations in solid-state hardware [link Arnau], as well as probing quantum-information distribution using out-of-time-ordered correlators [preprint in progress].
 
+**Quantum state transfer** -  We are also interested in transport of quantum states through quantum devices that can serve as quantum data buses. One example is the development of (super)adiabatic protocols for achieving quantum state transfer with, in principle, very high accuracy and minimal control [link Rodrigo].
 
-**Quantum state transfer** -  We are also nterested in transport of quantum states through quantum devices that can serve as quantum data buses. One example is the development of (super)adiabatic protocols for achieving quantum state transfer with, in principle, very high accuracy and minimal control [link Rodrigo].
+**Detection of entanglement** - A recurring theme in our group is the dynamical evolution of entanglement in qubit systems. We investigate how entanglement can be detected efficiently under realistic experimental conditions, for example through the use of entanglement-witness operators [link: DiVincenzo, Gühne, Borras]
 
 
-# ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
+Add pictures from papers!
+
+
 
 
