@@ -14,10 +14,10 @@ Our group conducts theoretical research on dynamical phenomena in nanoscale quan
 
 **Quantum state transfer** - We are also interested in transport of quantum states through quantum devices that can serve as quantum data buses. One example is the development of [(super)adiabatic protocols for quantum state transfer](https://arxiv.org/abs/1604.04885) with high accuracy and minimal control.
 
-**Detection of entanglement** - ![]({{ site.url }}{{ site.baseurl }}/images/respic/Guhne.png){: style="width: 280px; float: right; margin: 0px 10px"}
-A recurring theme in our group is the dynamical evolution of entanglement in qubit systems. We investigate how entanglement can be detected efficiently under realistic experimental conditions, for example through the use of [entanglement-witness operators](https://arxiv.org/abs/0805.2873). /
+**Detection of entanglement** - ![]({{ site.url }}{{ site.baseurl }}/images/respic/Guhne.png){: style="width: 300px; float: right; margin: 0px 10px"}
+A recurring theme in our group is the dynamical evolution of entanglement in qubit systems. We investigate how entanglement can be detected efficiently under realistic experimental conditions, for example through the use of [entanglement-witness operators](https://arxiv.org/abs/0805.2873). 
 
-/
+
 
 
 
