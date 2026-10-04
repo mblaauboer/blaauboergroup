@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **Check [Open Positions](https://mblaauboer.github.io/blaauboergroup/openings) for vacancies**
+ **Check [Open Positions](https://mblaauboer.github.io/blaauboergroup/research) for vacancies**
 
 
 Jump to [master's and bachelor's students](#master-and-bachelor-students) and [alumni](#alumni). 
