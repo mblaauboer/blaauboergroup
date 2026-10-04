@@ -78,7 +78,7 @@ Jump to [master's and bachelor's students](#master-and-bachelor-students) and [a
 
 
 
-## Master and Bachelor Students
+## master-and-bachelor-students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
