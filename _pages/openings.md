@@ -23,6 +23,7 @@ An Ada Lovelace fellowship (for female scientists)
 We can help you write the application (please contact me at <m.blaauboer[at]tudelft.nl>.
 
 **Master/bachelor projects for TU Delft students**
+
 For information on possible MSc or BSc thesis projects, please contact Miriam at <m.blaauboer[at]tudelft.nl>.
 
 
