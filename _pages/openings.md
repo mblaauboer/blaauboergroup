@@ -15,7 +15,7 @@ We currently have no open positions, but opportunities may become available in t
 **Postdoctoral funding**
 
 Many countries offer fellowships to support postdoctoral researchers undertaking research abroad. If you are interested in independent funding for a postdoctoral position with us, you may wish to consider applying for:
-•	A NWO Veni research fellowship) - 
+•	A NWO [Veni research fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-2026) 
 •	A Marie Curie fellowship 
 •	An Ada Lovelace fellowship (for female scientists)
 
