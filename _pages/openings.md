@@ -24,6 +24,8 @@ We can help you write the application (please contact me at <m.blaauboer[at]tude
 
 **Master/bachelor projects for TU Delft students**
 
+<div style="margin-bottom: 2em;"></div>
+
 For information on possible MSc or BSc thesis projects, please contact Miriam at <m.blaauboer[at]tudelft.nl>.
 
 
