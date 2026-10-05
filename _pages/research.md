@@ -25,7 +25,7 @@ Our group conducts theoretical research on dynamical phenomena in nanoscale quan
 **Detection of entanglement** - ![]({{ site.url }}{{ site.baseurl }}/images/respic/Guhne.png){: style="width: 290px; float: right; margin: 0px 10px"}
 A recurring theme in our group is the dynamical evolution of entanglement in qubit systems. We investigate how entanglement can be detected efficiently under realistic experimental conditions, for example through the use of [entanglement-witness operators](https://arxiv.org/abs/0805.2873). 
 
-<div style="margin-bottom: 4em;"></div>
+<div style="margin-bottom: 6em;"></div>
 
 
 
