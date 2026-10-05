@@ -22,7 +22,7 @@ Many countries offer fellowships to support postdoctoral researchers undertaking
 
 - A NWO [Veni research fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-2026)
 - A [European postdoctoral fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/whats-new/news/msca-opens-eur399-million-call-for-postdoctoral-fellowships)
-- An Ada Lovelace fellowship (for female scientists)
+- An [Ada Lovelace fellowship]({{ site.baseurl }}/downloads/Ada Lovelace fellowship.pdf)(for female scientists)
 
 We can help you write the application (please contact me at <m.blaauboer[at]tudelft.nl>.
 
