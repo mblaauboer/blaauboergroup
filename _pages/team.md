@@ -169,7 +169,7 @@ Jump to [master's and bachelor's students](#students) and [alumni](#alumni).
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+# ## Former visitors, BSc/ MSc students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -180,14 +180,14 @@ Jump to [master's and bachelor's students](#students) and [alumni](#alumni).
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>master's students</h4>
+<h4>Master's students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>bachelor's students</h4>
+<h4>Bachelor's students</h4>
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
