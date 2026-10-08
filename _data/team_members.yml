@@ -1,7 +1,7 @@
 - name: Miriam Blaauboer
   photo: Miriam Blaauboer.jpg
   info: group leader, PI
-  email: <m.blaauboer[at]tudelft.nl>
+  email: m.blaauboer[at]tudelft.nl
   #number_educ: 0
   #education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
   #education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
@@ -12,12 +12,12 @@
 - name: Lizzy Groote
   photo: Lizzy Groote.jpg
   info: management assistant
-  #email: L.Groote@tudelft.nl
+  # email: L.Groote@tudelft.nl
   
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://mblaauboer.github.io/blaauboergroup/vacancies">Open Positions</a> for more info
-  #email: milan.allan@gmail.com
+  # email: 
   number_educ: 0
   education1:
   education2:
