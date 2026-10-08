@@ -1,6 +1,6 @@
 - name: Miriam Blaauboer
   photo: Miriam Blaauboer.jpg
-  info: group leader, PI
+  info: Group leader, PI
   email: m.blaauboer[at]tudelft.nl
   #number_educ: 0
   #education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
@@ -11,7 +11,7 @@
 
 - name: Lizzy Groote
   photo: Lizzy Groote.jpg
-  info: management assistant
+  info: Management assistant
   # email: L.Groote@tudelft.nl
   
 - name: "This could be you !"
