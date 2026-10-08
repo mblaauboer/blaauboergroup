@@ -10,7 +10,7 @@ permalink: /team/
 
 **This page is under construction**
 
- **Check [Open Positions](https://mblaauboer.github.io/blaauboergroup/vacancies) for vacancies**
+Check [Open Positions](https://mblaauboer.github.io/blaauboergroup/vacancies) for vacancies
 
 
 Jump to [master's and bachelor's students](#Master's and bachelor's students) and [alumni](#alumni). 
