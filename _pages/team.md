@@ -8,6 +8,8 @@ permalink: /team/
 
 # Group Members
 
+<div style="margin-bottom: 1.5em;"></div>
+
 **This page is under construction**
 
 Check [Open Positions](https://mblaauboer.github.io/blaauboergroup/vacancies) for vacancies
@@ -28,7 +30,7 @@ Jump to [master's and bachelor's students](#Master's and bachelor's students) an
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} <br>email: <{{ member.email }}></i> 
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
