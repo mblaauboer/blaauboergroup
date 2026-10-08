@@ -1,4 +1,4 @@
-‹---
+---
 title: "Blaauboer Group - Team"
 layout: gridlay
 excerpt: "Blaauboer Group: Team members"
