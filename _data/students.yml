@@ -1,8 +1,8 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
+- name:
+  photo: rock.jpg
+  info:
+  email:
+  number_educ:0
 #  education1:
 #  education2:
 #  education3:
