@@ -1,8 +1,8 @@
 - name: Miriam Blaauboer
   photo: Miriam Blaauboer.jpg
-  info: Professor/PI
-  email: m.blaauboer@tudelft.nl
-  #number_educ: 5
+  info: group leader, PI
+  email: <m.blaauboer[at]tudelft.nl>
+  #number_educ: 0
   #education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
   #education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
   #education3: Postdoc Cornell
@@ -12,31 +12,12 @@
 - name: Lizzy Groote
   photo: Lizzy Groote.jpg
   info: management assistant
-  email: L.Groote@tudelft.nl
-  #number_educ: 2
-  #education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  #education2: BSc Jilin University
-
-- name: Yudai Sato
-  photo: Sato.jpeg
-  info: Postdoc, started September 2023
-  email: jwlee0421@postech.ac.kr
-  number_educ: 2
-  education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
-  education2: Master, University of Tokyo
-
-- name: Thomas Gozlinski
-  photo: Thomas.jpg
-  info: Akademischer Rat, since November 2023
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD, KIT, with [Wulf Wulfhekel](https://www.int.kit.edu/1941_701.php)
-  education2: MSc KIT
-
+  #email: L.Groote@tudelft.nl
+  
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  info: See <a href="http://mblaauboer.github.io/blaauboergroup/vacancies">Open Positions</a> for more info
+  #email: milan.allan@gmail.com
   number_educ: 0
   education1:
   education2:
