@@ -167,7 +167,7 @@ Jump to [master's and bachelor's students](#students) and [alumni](#alumni).
 </div>
 {% endif %}
 
-Former visitors, BSc/ MSc students
+## Former visitors, BSc/MSc students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
