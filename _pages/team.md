@@ -15,7 +15,7 @@ permalink: /team/
 Check [Open Positions](https://mblaauboer.github.io/blaauboergroup/vacancies) for vacancies
 
 
-Jump to [master's and bachelor's students](#master's and bachelor's students) and [alumni](#alumni). 
+Jump to [master's and bachelor's students](#student-section) and [alumni](#alumni). 
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -80,7 +80,7 @@ Jump to [master's and bachelor's students](#master's and bachelor's students) an
 {% endif %}
 
 
-## Master's and bachelor's students
+## Master's and bachelor's students {#student-section}
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
