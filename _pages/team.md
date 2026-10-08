@@ -1,4 +1,4 @@
----
+‹---
 title: "Blaauboer Group - Team"
 layout: gridlay
 excerpt: "Blaauboer Group: Team members"
@@ -136,38 +136,38 @@ Jump to [master's and bachelor's students](#students) and [alumni](#alumni).
 
 ## Alumni
 
-#{% assign number_printed = 0 %}
-#{% for member in site.data.alumni_members %}
+{% assign number_printed = 0 %}
+{% for member in site.data.alumni_members %}
 
-#{% assign even_odd = number_printed | modulo: 2 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 
-#{% if even_odd == 0 %}
-#<div class="row">
-#{% endif %}
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
 
-#<div class="col-sm-6 clearfix">
-#<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-#<h4>{{ member.name }}</h4>
-#<i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-#<ul style="overflow: hidden">
+<div class="col-sm-6 clearfix">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+<h4>{{ member.name }}</h4>
+<i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+<ul style="overflow: hidden">
 
-#</ul>
-#</div>
+</ul>
+</div>
 
-#{% assign number_printed = number_printed | plus: 1 %}
+{% assign number_printed = number_printed | plus: 1 %}
 
-#{% if even_odd == 1 %}
-#</div>
-#{% endif %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
-#{% endfor %}
+{% endfor %}
 
-#{% assign even_odd = number_printed | modulo: 2 %}
-#{% if even_odd == 1 %}
-#</div>
-#{% endif %}
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
-#Former visitors, BSc/ MSc students
+Former visitors, BSc/ MSc students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
