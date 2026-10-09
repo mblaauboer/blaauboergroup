@@ -6,8 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-**This site is currently under construction**
-
 In our group, we investigate quantum dynamical processes and transport of quantum information in nanoscale systems. We use analytical and numerical methods to study quantum phenomena in a variety of settings, such as quantum state routing in superconducting-qubit architectures and energy transfer in entangled spin systems.
 
 Our research spans fundamental problems at a relatively high level of abstraction - such as scrambling of quantum information in interacting qubit systems - as well as more application-oriented theoretical problems, including how to optimally implement desired two-qubit gates using a limited set of available interactions. 
