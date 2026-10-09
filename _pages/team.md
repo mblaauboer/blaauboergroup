@@ -140,7 +140,7 @@ Jump to [master's and bachelor's students](#student-section) and [alumni](#alumn
 
 ## Alumni
 
-<div style="margin-bottom: 3.3em;"></div>
+<div style="margin-bottom: 2.5em;"></div>
 
 <div class="row">
 
@@ -152,7 +152,7 @@ Jump to [master's and bachelor's students](#student-section) and [alumni](#alumn
 </div>
 
 
-<div class="col-sm-4" style="padding-left: 35px">
+<div class="col-sm-4" style="padding-left: 40px">
 <h4>Master's students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
