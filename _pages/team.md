@@ -142,7 +142,7 @@ Jump to [master's and bachelor's students](#student-section) and [alumni](#alumn
 
 <div class="row">
 
-<div class="col-sm-4" style="padding-left: 12px">       
+<div class="col-sm-4" style="padding-left: 14px">       
 <h4>PhD students and postdocs</h4>
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
@@ -150,7 +150,7 @@ Jump to [master's and bachelor's students](#student-section) and [alumni](#alumn
 </div>
 
 
-<div class="col-sm-4" style="padding-left: 15px">
+<div class="col-sm-4" style="padding-left: 16px">
 <h4>Master's students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
