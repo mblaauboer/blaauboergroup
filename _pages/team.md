@@ -79,6 +79,7 @@ Jump to [master's and bachelor's students](#student-section) and [alumni](#alumn
 </div>
 {% endif %}
 
+<div style="margin-bottom: 1.5em;"></div>
 
 ## Master's and bachelor's students {#student-section}
 {% assign number_printed = 0 %}
@@ -91,6 +92,7 @@ Jump to [master's and bachelor's students](#student-section) and [alumni](#alumn
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
