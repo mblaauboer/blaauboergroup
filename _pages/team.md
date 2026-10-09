@@ -16,7 +16,7 @@ Check [Open Positions](https://mblaauboer.github.io/blaauboergroup/vacancies) fo
 
 Jump to [master's and bachelor's students](#student-section) and [alumni](#alumni). 
 
-<div style="margin-bottom: 2.5em;"></div>
+<div style="margin-bottom: 3.em;"></div>
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -142,7 +142,7 @@ Jump to [master's and bachelor's students](#student-section) and [alumni](#alumn
 
 <div class="row">
 
-<div class="col-sm-4" style="padding-left: 6px">       
+<div class="col-sm-4" style="padding-left: 12px">       
 <h4>PhD students and postdocs</h4>
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
@@ -150,7 +150,7 @@ Jump to [master's and bachelor's students](#student-section) and [alumni](#alumn
 </div>
 
 
-<div class="col-sm-4" style="padding-left: 6px">
+<div class="col-sm-4" style="padding-left: 10px">
 <h4>Master's students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
