@@ -1,6 +1,6 @@
-#- name: Student
-#  photo: rock.jpg
-#  info:
+- name: Student
+  photo: rock.jpg
+  info: Coming soon
 #  email:
 #  number_educ:0
 #  education1:
