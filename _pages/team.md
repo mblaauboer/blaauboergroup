@@ -79,7 +79,7 @@ Jump to [master's and bachelor's students](#student-section) and [alumni](#alumn
 </div>
 {% endif %}
 
-<div style="margin-bottom: 1.5em;"></div>
+<div style="margin-bottom: 2.5em;"></div>
 
 ## Master's and bachelor's students {#student-section}
 {% assign number_printed = 0 %}
@@ -135,6 +135,7 @@ Jump to [master's and bachelor's students](#student-section) and [alumni](#alumn
 </div>
 {% endif %}
 
+<div style="margin-bottom: 3.5em;"></div>
 
 ## Alumni
 
