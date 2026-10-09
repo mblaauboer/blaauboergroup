@@ -10,14 +10,13 @@ permalink: /team/
 
 <div style="margin-bottom: 1.5em;"></div>
 
-**This page is under construction**
 
 Check [Open Positions](https://mblaauboer.github.io/blaauboergroup/vacancies) for vacancies
 
 
 Jump to [master's and bachelor's students](#student-section) and [alumni](#alumni). 
 
-<div style="margin-bottom: 2.0em;"></div>
+<div style="margin-bottom: 2.5em;"></div>
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -143,14 +142,15 @@ Jump to [master's and bachelor's students](#student-section) and [alumni](#alumn
 
 <div class="row">
 
-<div class="col-sm-4" style="padding-left: 3px">       
+<div class="col-sm-4" style="padding-left: 6px">       
 <h4>PhD students and postdocs</h4>
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
 </div>
 
-<div class="col-sm-4 clearfix">
+
+<div class="col-sm-4" style="padding-left: 6px">
 <h4>Master's students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
