@@ -140,7 +140,7 @@ Jump to [master's and bachelor's students](#student-section) and [alumni](#alumn
 
 ## Alumni
 
-<div style="margin-bottom: 2.3em;"></div>
+<div style="margin-bottom: 2.1em;"></div>
 
 <div class="row">
 
