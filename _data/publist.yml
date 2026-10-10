@@ -7,14 +7,14 @@
     display: Front. Phys. **10**, 1097564 (2023)
   highlight: 0
 
-- title: "Tapping-mode SQUID-on-tip Microscopy with Proximity Josephson Junctions"
-  image: SQUIDGAME.png
-  description: We measure measure non-equilibrium properties such as current and dissipation, and their relation to structure, which a novel SQUID-AFM. Collaboration with the [Lahabi Lab](https://www.lahabilab.com), led by Matthijs Rog.
-  authors: Matthijs Rog, Tycho J. Blom, Daan B. Boltje, Jimi D. de Haan, Remko Fermin, Jiasen Niu, Yasmin C. Doedes, Milan P. Allan, Kaveh Lahabi
+- title: "Implementation of a quantum private query using single-photon transistors"
+  image: dummy.png
+  description: placeholder 
+  authors: M. Nagtegaal and M. Blaauboer  
   link:
-    url: https://arxiv.org/pdf/2508.21575
-    display: arxiv (2025)
-  highlight: 1
+    url: https://iopscience.iop.org/article/10.1088/1361-6455/aafbc0
+    display: J. Phys. B: At. Mol. Opt. Phys. **52**, 045501 (2019) 
+  highlight: 0
 
 - title: "Signatures of Amorphous Shiba State in FeTe0.55Se0.45"
   image: shiba_cover.jpg
