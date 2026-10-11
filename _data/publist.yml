@@ -277,6 +277,56 @@
     display: Phys. Rev. B **68**, 205316 (2003)
   highlight: 0
 
+- title: "Self-induced transparency and giant nonlinearity in doped photonic crystals"
+  image: dummy.png
+  description: placeholder
+  authors: G. Kurizki, D. Petrosyan, T. Opatrny, M. Blaauboer, and B.A. Malomed
+  link:
+    url: https://opg.optica.org/josab/abstract.cfm?uri=josab-19-9-2066
+    display: JOSA B **19**, 2066 (2002)
+  highlight: 0
+
+- title: "One-way transport in quantum dots"
+  image: dummy.png
+  description: placeholder
+  authors: M. Blaauboer
+  link:
+    url: https://iopscience.iop.org/article/10.1088/2058-7058/15/10/33
+    display: Physics World **15**, 21 (2002)
+  highlight: 0
+
+- title: "Charge Pumping in Mesoscopic Systems coupled to a Superconducting Lead"
+  description: placeholder
+  authors: M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/cond-mat/0204340
+    display: Phys. Rev. B **65**, 235318 (2002)
+  highlight: 0
+
+- title: "Light-Bullet Modes in Self-Induced-Transparency media with Refractive Index Modulation"
+  description: placeholder
+  authors: M. Blaauboer, G. Kurizki, and B.A. Malomed
+  link:
+    url: https://opg.optica.org/josab/abstract.cfm?uri=josab-19-6-1376
+    display: JOSA B **19**, 1376-1379 (2002)
+  highlight: 0
+
+- title: "Statistical Distribution of Coulomb Blockade Peak Heights in Adiabatically Pumped Quantum Dots"
+  description: placeholder
+  authors: M. Blaauboer and E.J. Heller
+  link:
+    url: https://arxiv.org/abs/cond-mat/0110366
+    display:  Phys. Rev. B **64**, 241301-241304 (2001)
+  highlight: 0
+
+- title: "Multiple Scattering Theory in Clean Superconducting Layered Structures"
+  description: placeholder
+  authors: R.T.W. Koperdraad, R.E.S. Otadoy, M. Blaauboer, and A. Lodder
+  link:
+    url: https://iopscience.iop.org/article/10.1088/0953-8984/13/38/312
+    display: J. Phys. Cond. Mat. **13**, 8707-8723 (2001)
+  highlight: 0
+
 
 - title: "Equivalence of pseudogap and pairing energy in a cuprate high-temperature superconductor"
   image: BSCCO_noise.png
