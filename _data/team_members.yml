@@ -12,12 +12,12 @@
 - name: Lizzy Groote
   photo: Lizzy Groote.jpg
   info: Management assistant
-  # email: L.Groote@tudelft.nl
+  #email: L.Groote@tudelft.nl
   
 - name: "Coming soon"
   photo: rock.jpg
   info: See <a href="http://mblaauboer.github.io/blaauboergroup/vacancies">Open Positions</a> for more info
-  # email: 
+  #email: 
   number_educ: 0
   education1:
   education2:
