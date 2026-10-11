@@ -7,34 +7,6 @@
     display: Front. Phys. **10**, 1097564 (2023)
   highlight: 0
 
-- title: "Implementation of a quantum private query using single-photon transistors"
-  image: dummy.png
-  description: placeholder 
-  authors: M. Nagtegaal and M. Blaauboer  
-  link:
-    url: https://iopscience.iop.org/article/10.1088/1361-6455/aafbc0
-    display: J. Phys. B: At. Mol. Opt. Phys. **52**, 045501 (2019) 
-  highlight: 0
-
-- title: "Effect of transverse anisotropy on inelastic tunneling spectroscopy of atomic-scale magnetic chains" 
-  image: dummy.png
-  description: placeholder
-  authors: J. Hageman and M. Blaauboer
-  link:
-    url: https://pubs.acs.org/doi/full/10.1021/acs.nanolett.4c05650
-    display: Phys. Rev. B **95**, 134418 (2017)
-  highlight: 0
-
-  - title: "Superadiabatic quantum state transfer in spin chains" 
-  image: Adiabatic1.pdf
-  description: This paper proposes a superadiabatic protocol for quantum state transfer across spin chains with an odd number of spins that achieves arbitrarily high accuracy with minimal control. The transfer protocol only requires the control of couplings between the
-qubits on the edge and the spin chain. We predict fidelities above 0.99 for an evolution of nanoseconds using typical spin exchange coupling values on the order of µeV. 
-  authors: Ricardo Agundez, Charles D. Hill, Lloyd C. L. Hollenberg, Sven Rogge, Miriam Blaauboer
-  link:
-    url: https://arxiv.org/abs/1604.04885  
-    display: Phys. Rev. A 95, 012317 (2017)
-  highlight: 1
-
 - title: "Equivalence of pseudogap and pairing energy in a cuprate high-temperature superconductor"
   image: BSCCO_noise.png
   description: What is the pseudogap and what is the relation between pseudogap and superconductivity? – This is likely the most discussed issue in quantum matter over the last three decades. We report a direct evidence for equivalence of pseudogap and onset energy for electron pairing with our state-of-art electron pair microscope. This may inspire hope for materials with higher Tc.
