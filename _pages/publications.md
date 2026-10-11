@@ -70,10 +70,11 @@ permalink: /publications/
 
 {% endfor %}
 
+<div style="margin-bottom: 2.0em;"></div>
 
 ## Popular articles
 
-<div style="margin-bottom: 2.0em;"></div>
+<div style="margin-bottom: 1.5em;"></div>
 
 Publications on general aspects of teaching, research, history of physics and society
 
@@ -82,7 +83,7 @@ Publications on general aspects of teaching, research, history of physics and so
 
 ## Columns
 
-<div style="margin-bottom: 2.0em;"></div>
+<div style="margin-bottom: 1.5em;"></div>
 
 These are columns I wrote for the [newsletter]{https://kavli.tudelft.nl/newsletter} of the Kavli Institute of Nanoscience Delft 
 between 2013-2015
