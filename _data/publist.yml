@@ -193,7 +193,7 @@
   authors: F. Bodoky, O. Gühne and M. Blaauboer
   link:
     url: https://arxiv.org/abs/0809.3561
-    display: J. Phys.: Condens. Matter **21**, 395602 (2009)
+    display: J. Phys. Condens. Matter **21**, 395602 (2009)
   highlight: 0
 
 - title: "Multiparticle entanglement under the influence of decoherence"
@@ -205,6 +205,41 @@
     display: Phys. Rev. A **78**, 060301(R) (2008)
   highlight: 1
 
+- title: "An analytical decomposition protocol for optimal implementation of two-qubit entangling gates"
+  image: dummy.png 
+  description: This paper addresses the question how to implement a desired two-qubit gate U using a given tunable two-qubit entangling interaction Hint (t). We present a general protocol (based on the K1AK2 decomposition of unitary matrices) for calculating the smallest number of two-qubit gates [based on Hint(t)] and single-qubit rotations, and the explicit sequence of these operations that are required to implement U, illustrate our protocol for two types of interaction (Heisenberg exchange interaction and quantum inductive coupling) and discuss the relevance of our results for solid-state qubits.
+  authors: M. Blaauboer and R.L. de Visser
+  link:
+    url: https://iopscience.iop.org/article/10.1088/1751-8113/41/39/395307
+    display: J. Phys A Math. Theor. **41**, 395307 (2008)
+  highlight: 1
+
+- title: "Production of multipartite entanglement for electron spins in quantum dots"
+  image: dummy.png
+  description: placeholder
+  authors: F. Bodoky and M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/0707.1267
+    display: Phys. Rev. A **76**, 052309 (2007)
+  highlight: 0
+
+- title: "Deterministic teleportation of electrons in a quantum dot nanostructure"
+  image: dummy.png
+  description: placeholder
+  authors: R.L. de Visser and M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/cond-mat/0603464
+    display: , Phys. Rev. Lett. **96**, 246801 (2006)
+  highlight: 0
+
+- title: "Detecting entanglement using a double-quantum-dot turnstile"
+  image: dummy.png
+  description: placeholder
+  authors: M. Blaauboer and D.P. DiVincenzo
+  link:
+    url: https://arxiv.org/abs/cond-mat/0502060
+    display: Phys. Rev. Lett. **95**,  160402 (2005)
+  highlight: 0
 
 - title: "Equivalence of pseudogap and pairing energy in a cuprate high-temperature superconductor"
   image: BSCCO_noise.png
@@ -215,33 +250,6 @@
     display: arXiv
   highlight: 1
 
-- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
-  image: ShotNoise.png
-  description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
-  authors: Jiasen Niu, Koen M. Bastiaans, Jianfeng Ge, Ruchi Tomar, John Jesudasan, Pratap Raychaudhuri, Max Karrer, Reinhold Kleiner, Dieter Koelle, Arnaud Barbier, Eduard F.C. Driessen, Yaroslav M. Blanter, Milan P. Allan
-  link:
-    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.076001
-    display: Phys. Rev. Lett. 132, 076001 (Editors' Suggestion)
-  highlight: 1
-
-- title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
-  link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  Phys. Rev. Research 3, 013153 (2021)
-  highlight: 1
-  news2: See also [Nat Comm with the group of van der Molen](https://arxiv.org/abs/2107.14716)
-
-- title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
-  image: YSR.png
-  description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
-  authors: D Chatzopoulos, Doohee Cho, KM Bastiaans, GO Steffensen, D Bouwmeester, A Akbari, Genda Gu, J Paaske, BM Andersen, MP Allan
-  link:
-    url: https://www.nature.com/articles/s41467-020-20529-x
-    display:  Nature Communications 12, 298 (2021)
-  highlight: 1
 
 - title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
   image: TBG_ARPES.png
