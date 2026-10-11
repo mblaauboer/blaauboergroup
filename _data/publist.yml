@@ -27,12 +27,49 @@
 
 - title: "Superadiabatic quantum state transfer in spin chains" 
   image: Adiabatic1.pdf
-  description: This paper proposes a superadiabatic protocol for quantum state transfer across spin chains with an odd number of spins that achieves arbitrarily high accuracy with minimal control. The transfer protocol only requires the control of couplings between the qubits on the edge and the spin chain. We predict fidelities above 0.99 for an evolution of nanoseconds using typical spin exchange coupling values on the order of µeV. 
+  description: This paper proposes a superadiabatic protocol for quantum state transfer across spin chains with an odd number of spins. We show that the transfer protocal achieves arbitrarily high accuracy with minimal control and only requires the control of couplings between the qubits on the edge and the spin chain. We predict fidelities above 0.99 for an evolution of nanoseconds using typical spin exchange coupling values on the order of µeV. 
   authors: Ricardo Agundez, Charles D. Hill, Lloyd C. L. Hollenberg, Sven Rogge, Miriam Blaauboer
   link:
     url: https://arxiv.org/abs/1604.04885  
-    display: Phys. Rev. A 95, 012317 (2017)
+    display: Phys. Rev. A **95**, 012317 (2017)
   highlight: 1
+
+- title: "Inelastic cotunneling with energy-dependent contact transmission”
+  image: dummy.png
+  description: placeholder
+  authors: S. Blok, R.R. Agundez Mojarro, L.A. Maduro, M. Blaauboer, S.J. van der Molen
+  link:
+    url: https://arxiv.org/abs/1604.04885
+    display: The Journal of Chemical Physics **146**, 092325 (2016)
+  highlight: 0
+
+- title: "Proposal for a transmon-based quantum router”
+  image: dummy.png
+  description: placeholder
+  authors: Arnau Sala, M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/1509.05768
+    display: J. Phys. Condens. Mat. **28**, 275701 (2016)
+ highlight: 0
+
+- title: "Local Kondo temperatures in atomic chains”
+  image: dummy.png
+  description: placeholder
+  authors: R.R Agundez, J. Salfi, S. Rogge, M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/1408.6447
+    display: Phys. Rev. B  **91**, 041117(R) (2015)
+ highlight: 0
+
+- title: "Adiabatic quantum pumping of chiral Majorana fermions”
+  image: dummy.png
+  description: placeholder 
+  authors: M. Alos-Palop, R.P. Tiwari, M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/1305.1512
+    display: Phys. Rev. B **89**, 045307 (2014)
+  highlight: 0
+
 
 - title: "Equivalence of pseudogap and pairing energy in a cuprate high-temperature superconductor"
   image: BSCCO_noise.png
