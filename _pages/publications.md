@@ -75,9 +75,17 @@ permalink: /publications/
 
 <div style="margin-bottom: 2.0em;"></div>
 
+Publications on general aspects of teaching, research, history of physics and society
+
+<div style="margin-bottom: 2.0em;"></div>
+
+
 ## Columns
 
 <div style="margin-bottom: 2.0em;"></div>
+
+These are columns I wrote for the [newsletter]{https://kavli.tudelft.nl/newsletter} of the Kavli Institute of Nanoscience Delft 
+between 2013-2015
 
 
 <div style="margin-bottom: 2.5em;"></div>
