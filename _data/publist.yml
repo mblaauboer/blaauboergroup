@@ -383,44 +383,43 @@
     display: Opt. Comm. **148**, 295-299 (1998)
   highlight: 0
 
-
-
-- title: "Equivalence of pseudogap and pairing energy in a cuprate high-temperature superconductor"
-  image: BSCCO_noise.png
-  description: What is the pseudogap and what is the relation between pseudogap and superconductivity? – This is likely the most discussed issue in quantum matter over the last three decades. We report a direct evidence for equivalence of pseudogap and onset energy for electron pairing with our state-of-art electron pair microscope. This may inspire hope for materials with higher Tc.
-  authors: Jiasen Niu, Maialen Ortego Larrazabal, Thomas Gozlinski, Yudai Sato, Koen M. Bastiaans, Tjerk Benschop, Jian-Feng Ge, Yaroslav M. Blanter, Genda Gu, Ingmar Swart, Milan P. Allan
+- title: "Superluminal optical phase conjugation: Pulse reshaping and instability"
+  description: placeholder
+  authors: M. Blaauboer, A.G. Kofman, A.E. Kozhekin, G. Kurizki, D. Lenstra, and A. Lodder
   link:
-    url: https://arxiv.org/abs/2409.15928
-    display: arXiv
-  highlight: 1
-
-
-- title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
-  image: TBG_ARPES.png
-  description:
-  authors: R Sharma, A Kreisel, MA Sulangi, J Böker, A Kostin, MP Allan, H Eisaki, AE Böhmer, PC Canfield, I Eremin, JC Davis, PJ Hirschfeld, PO Sprau
-  link:
-    url: https://dx.doi.org/10.1038/s41535-020-00303-4
-    display: npj Quantum Materials 6, 7 (2021)
+    url: https://arxiv.org/abs/physics/9803015
+    display: Phys. Rev. A **57**, 4905-4912 (1998)
   highlight: 0
-  news2:
 
-- title: "Modeling Green's functions measurements with two-tip scanning tunneling microscopy"
-  image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: M Leeuwenhoek, S Gröblacher, MP Allan, YaM Blanter
+- title: "Giant phase-conjugate reflection with a normal mirror in front of an optical phase-conjugator"
+  description: placeholder
+  authors: M. Blaauboer, D. Lenstra, and  A. Lodder
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115416
-    display:  PRB 102, 115416 (2020)
+    url: https://arxiv.org/abs/physics/9804003
+    display: Superlattices and Microstructures **23**, 937-943 (1998)
   highlight: 0
-  news2:
 
+- title: "Steady state behaviour in atomic three-level lambda and ladder systems with incoherent population pumping"
+  description: placeholder
+  authors: M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/physics/9701002
+    display: Phys. Rev. A **55**, 2459-2462 (1997)
+  highlight: 0
 
+- title: "Size-effects in the density of states in NS and SNS junctions"
+  description: placeholder
+  authors: M. Blaauboer, R.T.W. Koperdraad, A. Lodder, and D. Lenstra
+  link:
+    url: https://arxiv.org/abs/cond-mat/9605078
+    display: Phys. Rev. B **54**, 4283-4288 (1996)
+  highlight: 0
 
-
-
-
-
-
-
+- title: "Helicity modulus and effective hopping in the two-dimensional Hubbard model using slave-boson methods"
+  description: placeholder
+  authors: P.J.H. Denteneer and M. Blaauboer 
+  link:
+    url: https://arxiv.org/abs/cond-mat/9406093
+    display: J. Phys. Condens. Matter **7**, 151-173 (1995)
+  highlight: 0
 
