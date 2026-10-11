@@ -1,0 +1,425 @@
+- title: "Enhanced energy transfer in a Dicke quantum battery"
+  image: dummy.png
+  description: Enhanced energy transfer in a Dicke quantum battery
+  authors: Xiang Zhang, Miriam Blaauboer
+  link:
+    url: https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2022.1097564/full
+    display: Front. Phys. **10**, 1097564 (2023)
+  highlight: 0
+
+- title: "Implementation of a quantum private query using single-photon transistors"
+  image: dummy.png
+  description: placeholder 
+  authors: M. Nagtegaal and M. Blaauboer  
+  link:
+    url: https://iopscience.iop.org/article/10.1088/1361-6455/aafbc0
+    display: J. Phys. B At. Mol. Opt. Phys. **52**, 045501 (2019) 
+  highlight: 0
+
+- title: "Effect of transverse anisotropy on inelastic tunneling spectroscopy of atomic-scale magnetic chains" 
+  image: dummy.png
+  description: placeholder
+  authors: J. Hageman and M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/1602.06839
+    display: Phys. Rev. B **95**, 134418 (2017)
+  highlight: 0
+
+- title: "Superadiabatic quantum state transfer in spin chains" 
+  image: Adiabatic1.pdf
+  description: This paper proposes a superadiabatic protocol for quantum state transfer across spin chains with an odd number of spins. We show that the transfer protocal achieves arbitrarily high accuracy with minimal control and only requires the control of couplings between the qubits on the edge and the spin chain. We predict fidelities above 0.99 for an evolution of nanoseconds using typical spin exchange coupling values on the order of µeV. 
+  authors: Ricardo Agundez, Charles D. Hill, Lloyd C. L. Hollenberg, Sven Rogge, Miriam Blaauboer
+  link:
+    url: https://arxiv.org/abs/1604.04885  
+    display: Phys. Rev. A **95**, 012317 (2017)
+  highlight: 1
+
+- title: "Inelastic cotunneling with energy-dependent contact transmission"
+  image: dummy.png
+  description: placeholder
+  authors: S. Blok, R.R. Agundez Mojarro, L.A. Maduro, M. Blaauboer, S.J. van der Molen
+  link:
+    url: https://arxiv.org/abs/1604.04885
+    display: The Journal of Chemical Physics **146**, 092325 (2016)
+  highlight: 0
+
+- title: "Proposal for a transmon-based quantum router"
+  image: dummy.png
+  description: placeholder
+  authors: Arnau Sala, M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/1509.05768
+    display: J. Phys. Condens. Mat. **28**, 275701 (2016)
+  highlight: 0
+
+- title: "Local Kondo temperatures in atomic chains"
+  image: dummy.png
+  description: placeholder
+  authors: R.R Agundez, J. Salfi, S. Rogge, M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/1408.6447
+    display: Phys. Rev. B  **91**, 041117(R) (2015)
+  highlight: 0
+
+- title: "Adiabatic quantum pumping of chiral Majorana fermions"
+  image: dummy.png
+  description: placeholder 
+  authors: M. Alos-Palop, R.P. Tiwari, M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/1305.1512
+    display: Phys. Rev. B **89**, 045307 (2014)
+  highlight: 0
+
+- title: "Magnetic flux tuning of Fano-Kondo interplay in a parallel double quantum dot system"
+  image: dummy.png
+  description: placeholder 
+  authors: R.R Agundez, J. Verduijn, S. Rogge, M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/1301.4235
+    display: Phys. Rev. B **87**,  235407 (2013)
+  highlight: 0
+
+- title: "Non-local coupling of donor-bound electrons in silicon"
+  image: dummy.png
+  description: placeholder
+  authors: J. Verduijn, R.R Agundez, M. Blaauboer, S. Rogge
+  link:
+    url: https://iopscience.iop.org/article/10.1088/1367-2630/15/3/033020
+    display: New J. Phys. **15**, 033020 (2013)
+  highlight: 0
+
+- title: "Suppression of conductance in a topological insulator nanostep junction"
+  image: dummy.png
+  description: placeholder
+  authors: M. Alos-Palop, R.P. Tiwari, M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/1204.3392
+    display: Phys. Rev. B **87**, 035432 (2013)
+  highlight: 0
+
+- title: "Adiabatic quantum pumping through surface states in 3D topological insulators"
+  image: dummy.png
+  description: placeholder
+  authors: M. Alos-Palop, R.P. Tiwari, M. Blaauboer
+  link:
+    url: https://iopscience.iop.org/article/10.1088/1367-2630/14/11/113003
+    display: New J. Phys. **14**, 113003 (2012)
+  highlight: 0
+
+- title: "Energy spectrum and exact cover in an extended quantum Ising model"
+  image: dummy.png
+  description: placeholder
+  authors: G.M.M. Wakker, R.M. Ockhorst, M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/1103.4091
+    display:  Phys. Rev. A **85**, 022337 (2012)
+  highlight: 0
+
+- title: "Magnetic-field probing of an SU(4) Kondo resonance in a single-atom transistor"
+  image: dummy.png
+  description: placeholder
+  authors: G.C. Tettamanzi, J. Verduijn, G.P. Lansbergen, M. Blaauboer, M.J. Calderon, R. Aguado, S. Rogge,
+  link:
+    url: https://arxiv.org/abs/1102.2977
+    display: Phys. Rev. Lett. **108**, 046803 (2012)
+  highlight: 0
+
+- title: "Localization and circulating currents in curved graphene devices"
+  image: dummy.png
+  description: placeholder
+  authors: G.M.M. Wakker, R.P. Tiwari and M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/1105.3588
+    display:  Phys. Rev. B **84**, 195427 (2011)
+  highlight: 0
+
+- title: "Adiabatic quantum pumping in normal metal-insulator-superconductor junctions in a monolayer of graphene"
+  image: dummy.png
+  description: placeholder
+  authors: M. Alos-Palop and M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/1102.0926
+    display: Phys. Rev. B **84**, 073402 (2011)
+  highlight: 0
+
+- title: "Detecting entanglement of two electron spin qubits with witness operators"
+  image: dummy.png
+  description: placeholder
+  authors: A. Borras and M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/1101.2870
+    display:  Phys. Rev. B **84**, 033301 (2011)
+  highlight: 0
+
+- title: "Quantum pumping in graphene with a perpendicular magnetic field"
+  image: dummy.png
+  description: placeholder
+  authors: R.P. Tiwari and M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/1006.4268
+    display:  Appl. Phys. Lett. **97**, 243112 (2010)
+  highlight: 0
+
+- title: "Quantum pumping in a ballistic graphene bilayer"
+  image: dummy.png
+  description: placeholder
+  authors: G.M.M. Wakker and M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/1009.1033
+    display:  Phys. Rev. B **82**, 205432 (2010)
+  highlight: 0
+
+- title: "Tunable Kondo effect in a single donor atom"
+  image: dummy.png
+  description: placeholder
+  authors: G.P. Lansbergen, G.C. Tettamanzi, J. Verduijn, N. Collaert, S. Biesemans, M. Blaauboer and S. Rogge
+  link:
+    url: https://doi.org/10.1021/nl9031132
+    display:  Nano Letters **10**, 455 (2010)
+  highlight: 0
+
+- title: "Implementation of the quantum walk step operator in lateral quantum dots"
+  image: dummy.png
+  description: placeholder
+  authors: K.A. van Hoogdalem and M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/0903.1236
+    display:  Phys. Rev. B **80**, 125309 (2009)
+  highlight: 0
+
+- title: "Modeling the decay of entanglement for electron spin qubits in quantum dots"
+  image: dummy.png
+  description: placeholder
+  authors: F. Bodoky, O. Gühne and M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/0809.3561
+    display: J. Phys. Condens. Matter **21**, 395602 (2009)
+  highlight: 0
+
+- title: "Multiparticle entanglement under the influence of decoherence"
+  image: guhnefig.png
+  description: We present a method to determine the decay of multiparticle quantum correlations under the influence of decoherence quantified by the geometric measure of entanglement. Using this measure, we compare the robustness of entanglement in GHZ-, cluster-, W- and Dicke states of four qubits and show that the Dicke state is the most robust one. We also determine the geometric measure analytically for decaying GHZ and cluster states of an arbitrary number of qubits.
+  authors: O. Gühne, F. Bodoky and M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/0805.2873
+    display: Phys. Rev. A **78**, 060301(R) (2008)
+  highlight: 1
+
+- title: "An analytical decomposition protocol for optimal implementation of two-qubit entangling gates"
+  image: devisser.png 
+  description: This paper addresses the question how to implement a desired two-qubit gate U using a given tunable two-qubit entangling interaction Hint (t). We present a general protocol (based on the K1AK2 decomposition of unitary matrices) for calculating the smallest number of two-qubit gates [based on Hint(t)] and single-qubit rotations, and the explicit sequence of these operations that are required to implement U, illustrate our protocol for two types of interaction (Heisenberg exchange interaction and quantum inductive coupling) and discuss the relevance of our results for solid-state qubits.
+  authors: M. Blaauboer and R.L. de Visser
+  link:
+    url: https://iopscience.iop.org/article/10.1088/1751-8113/41/39/395307
+    display: J. Phys A Math. Theor. **41**, 395307 (2008)
+  highlight: 1
+
+- title: "Production of multipartite entanglement for electron spins in quantum dots"
+  image: dummy.png
+  description: placeholder
+  authors: F. Bodoky and M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/0707.1267
+    display: Phys. Rev. A **76**, 052309 (2007)
+  highlight: 0
+
+- title: "Deterministic teleportation of electrons in a quantum dot nanostructure"
+  image: dummy.png
+  description: placeholder
+  authors: R.L. de Visser and M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/cond-mat/0603464
+    display: Phys. Rev. Lett. **96**, 246801 (2006)
+  highlight: 0
+
+- title: "Detecting entanglement using a double-quantum-dot turnstile"
+  image: dummy.png
+  description: placeholder
+  authors: M. Blaauboer and D.P. DiVincenzo
+  link:
+    url: https://arxiv.org/abs/cond-mat/0502060
+    display: Phys. Rev. Lett. **95**,  160402 (2005)
+  highlight: 0
+
+- title: "Analytical solution of the time evolution of an entangled electron spin pair in a double quantum dot nanostructure"
+  image: dummy.png
+  description: placeholder
+  authors: M. Blaauboer 
+  link:
+    url: https://arxiv.org/abs/cond-mat/0508662
+    display: J. Math. Phys. **46**, 083518 (2005)
+  highlight: 0
+
+- title: "Spin pump turnstile: parametric pumping of a spin-polarized current through a nearly-closed quantum dot"
+  image: dummy.png
+  description: placeholder
+  authors: M. Blaauboer and C.M.L. Fricot
+  link:
+    url: https://arxiv.org/abs/cond-mat/0411193
+    display: Phys. Rev. B **71**, 041303(R) (2005)
+  highlight: 0
+
+- title: "Quantum Pumping and Nuclear Polarization in the Integer Quantum Hall Regime"
+  image: dummy.png
+  description: placeholder
+  authors: M. Blaauboer
+  link:
+    url: ADD
+    display: Europhys. Lett. **69**, 109 (2005)
+  highlight: 0
+
+- title: "Quantum Pumping and quantized magnetoresistance in a Hall Bar"
+  image: dummy.png
+  description: placeholder
+  authors: M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/cond-mat/0307166
+    display: Phys. Rev. B **68**, 205316 (2003)
+  highlight: 0
+
+- title: "Self-induced transparency and giant nonlinearity in doped photonic crystals"
+  image: dummy.png
+  description: placeholder
+  authors: G. Kurizki, D. Petrosyan, T. Opatrny, M. Blaauboer, and B.A. Malomed
+  link:
+    url: https://opg.optica.org/josab/abstract.cfm?uri=josab-19-9-2066
+    display: JOSA B **19**, 2066 (2002)
+  highlight: 0
+
+- title: "One-way transport in quantum dots"
+  image: dummy.png
+  description: placeholder
+  authors: M. Blaauboer
+  link:
+    url: https://iopscience.iop.org/article/10.1088/2058-7058/15/10/33
+    display: Physics World **15**, 21 (2002)
+  highlight: 0
+
+- title: "Charge Pumping in Mesoscopic Systems coupled to a Superconducting Lead"
+  description: placeholder
+  authors: M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/cond-mat/0204340
+    display: Phys. Rev. B **65**, 235318 (2002)
+  highlight: 0
+
+- title: "Light-Bullet Modes in Self-Induced-Transparency media with Refractive Index Modulation"
+  description: placeholder
+  authors: M. Blaauboer, G. Kurizki, and B.A. Malomed
+  link:
+    url: https://opg.optica.org/josab/abstract.cfm?uri=josab-19-6-1376
+    display: JOSA B **19**, 1376-1379 (2002)
+  highlight: 0
+
+- title: "Statistical Distribution of Coulomb Blockade Peak Heights in Adiabatically Pumped Quantum Dots"
+  description: placeholder
+  authors: M. Blaauboer and E.J. Heller
+  link:
+    url: https://arxiv.org/abs/cond-mat/0110366
+    display:  Phys. Rev. B **64**, 241301-241304 (2001)
+  highlight: 0
+
+- title: "Multiple Scattering Theory in Clean Superconducting Layered Structures"
+  description: placeholder
+  authors: R.T.W. Koperdraad, R.E.S. Otadoy, M. Blaauboer, and A. Lodder
+  link:
+    url: https://iopscience.iop.org/article/10.1088/0953-8984/13/38/312
+    display: J. Phys. Cond. Mat. **13**, 8707-8723 (2001)
+  highlight: 0
+
+- title: "Mesoscopic scattering in the half-plane: squeezing conductance through a small hole"
+  description: placeholder
+  authors: A.H. Barnett, M. Blaauboer, A. Mody, E.J. Heller
+  link:
+    url: https://arxiv.org/abs/cond-mat/0008279
+    display: Phys. Rev. B **63**, 245312-245319 (2001)
+  highlight: 0
+
+- title: "Random Scattering by Atomic Density Fluctuations in Optical Lattices"
+  description: placeholder
+  authors: M. Blaauboer, G. Kurizki, and  V.M. Akulin
+  link:
+    url: https://arxiv.org/abs/physics/0011033
+    display: Phys. Rev. Lett. **86**, 3518-3521 (2001)
+  highlight: 0
+
+- title: "Localization in a random phase-conjugating medium"
+  description: placeholder
+  authors: M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/cond-mat/0007426
+    display: Phys. Rev. A **62**, 041804(R) (2000)
+  highlight: 0
+
+- title: "Spatiotemporally localized solitons in resonantly absorbing Bragg reflectors"
+  description: placeholder
+  authors: M. Blaauboer, G. Kurizki, and B.A. Malomed
+  link:
+    url: https://arxiv.org/abs/nlin/0007004
+    display: Phys. Rev. E **62**, R57-R59 (2000)
+  highlight: 0
+
+- title: "Spatiotemporally localized solitons in Self-Induced Transparency Media"
+  description: placeholder
+  authors: M. Blaauboer, B.A. Malomed, and G. Kurizki
+  link:
+    url: https://arxiv.org/abs/physics/0002006
+    display:  Phys. Rev. Lett. **84**, 1906-1909 (2000)
+  highlight: 0
+
+- title: "Optical tachyons in parametric amplifiers: how fast can quantum information travel?"
+  description: placeholder
+  authors: G. Kurizki, A.E. Kozhekin, A.G. Kofman, and M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/quant-ph/9805040
+    display: Optics and Spectroscopy **87**, 505-512 (1999)
+  highlight: 0
+
+- title: "Superluminal pulse transmission through a phase-conjugating mirror"
+  description: placeholder
+  authors: M. Blaauboer, A.E. Kozhekin, A.G. Kofman, G. Kurizki, D. Lenstra, and A. Lodder
+  link:
+    url: https://arxiv.org/abs/physics/9711011
+    display: Opt. Comm. **148**, 295-299 (1998)
+  highlight: 0
+
+- title: "Superluminal optical phase conjugation: Pulse reshaping and instability"
+  description: placeholder
+  authors: M. Blaauboer, A.G. Kofman, A.E. Kozhekin, G. Kurizki, D. Lenstra, and A. Lodder
+  link:
+    url: https://arxiv.org/abs/physics/9803015
+    display: Phys. Rev. A **57**, 4905-4912 (1998)
+  highlight: 0
+
+- title: "Giant phase-conjugate reflection with a normal mirror in front of an optical phase-conjugator"
+  description: placeholder
+  authors: M. Blaauboer, D. Lenstra, and  A. Lodder
+  link:
+    url: https://arxiv.org/abs/physics/9804003
+    display: Superlattices and Microstructures **23**, 937-943 (1998)
+  highlight: 0
+
+- title: "Steady state behaviour in atomic three-level lambda and ladder systems with incoherent population pumping"
+  description: placeholder
+  authors: M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/physics/9701002
+    display: Phys. Rev. A **55**, 2459-2462 (1997)
+  highlight: 0
+
+- title: "Size-effects in the density of states in NS and SNS junctions"
+  description: placeholder
+  authors: M. Blaauboer, R.T.W. Koperdraad, A. Lodder, and D. Lenstra
+  link:
+    url: https://arxiv.org/abs/cond-mat/9605078
+    display: Phys. Rev. B **54**, 4283-4288 (1996)
+  highlight: 0
+
+- title: "Helicity modulus and effective hopping in the two-dimensional Hubbard model using slave-boson methods"
+  description: placeholder
+  authors: P.J.H. Denteneer and M. Blaauboer 
+  link:
+    url: https://arxiv.org/abs/cond-mat/9406093
+    display: J. Phys. Condens. Matter **7**, 151-173 (1995)
+  highlight: 0
+
