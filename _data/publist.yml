@@ -70,6 +70,43 @@
     display: Phys. Rev. B **89**, 045307 (2014)
   highlight: 0
 
+- title: "Magnetic flux tuning of Fano-Kondo interplay in a parallel double quantum dot system"
+  image: dummy.png
+  description: placeholder 
+  authors: R.R Agundez, J. Verduijn, S. Rogge, M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/1301.4235
+    display: Phys. Rev. B **87**,  235407 (2013)
+  highlight: 0
+
+- title: "Non-local coupling of donor-bound electrons in silicon"
+  image: dummy.png
+  description: placeholder
+  authors: J. Verduijn, R.R Agundez, M. Blaauboer, S. Rogge
+  link:
+    url: https://iopscience.iop.org/article/10.1088/1367-2630/15/3/033020
+    display: New J. Phys. **15**, 033020 (2013)
+  highlight: 0
+
+- title: "Suppression of conductance in a topological insulator nanostep junction"
+  image: dummy.png
+  description: placeholder
+  authors: M. Alos-Palop, R.P. Tiwari, M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/1204.3392
+    display: Phys. Rev. B **87**, 035432 (2013)
+  highlight: 0
+
+- title: "Adiabatic quantum pumping through surface states in 3D topological insulators"
+  image: dummy.png
+  description: placeholder
+  authors: M. Alos-Palop, R.P. Tiwari, M. Blaauboer
+  link:
+    url: https://iopscience.iop.org/article/10.1088/1367-2630/14/11/113003
+    display: New J. Phys. **14**, 113003 (2012)
+  highlight: 0
+
+
 - title: "Equivalence of pseudogap and pairing energy in a cuprate high-temperature superconductor"
   image: BSCCO_noise.png
   description: What is the pseudogap and what is the relation between pseudogap and superconductivity? – This is likely the most discussed issue in quantum matter over the last three decades. We report a direct evidence for equivalence of pseudogap and onset energy for electron pairing with our state-of-art electron pair microscope. This may inspire hope for materials with higher Tc.
