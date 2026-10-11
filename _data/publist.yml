@@ -34,15 +34,6 @@
     display: Phys. Rev. A **95**, 012317 (2017)
   highlight: 1
 
-- title: "Inelastic cotunneling with energy-dependent contact transmission”
-  image: dummy.png
-  description: placeholder
-  authors: S. Blok, R.R. Agundez Mojarro, L.A. Maduro, M. Blaauboer, S.J. van der Molen
-  link:
-    url: https://arxiv.org/abs/1604.04885
-    display: The Journal of Chemical Physics **146**, 092325 (2016)
-  highlight: 0
-
 - title: "Proposal for a transmon-based quantum router”
   image: dummy.png
   description: placeholder
@@ -69,7 +60,6 @@
     url: https://arxiv.org/abs/1305.1512
     display: Phys. Rev. B **89**, 045307 (2014)
   highlight: 0
-
 
 - title: "Equivalence of pseudogap and pairing energy in a cuprate high-temperature superconductor"
   image: BSCCO_noise.png
