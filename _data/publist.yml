@@ -34,25 +34,34 @@
     display: Phys. Rev. A **95**, 012317 (2017)
   highlight: 1
 
-- title: "Proposal for a transmon-based quantum router”
+- title: "Inelastic cotunneling with energy-dependent contact transmission"
+  image: dummy.png
+  description: placeholder
+  authors: S. Blok, R.R. Agundez Mojarro, L.A. Maduro, M. Blaauboer, S.J. van der Molen
+  link:
+    url: https://arxiv.org/abs/1604.04885
+    display: The Journal of Chemical Physics **146**, 092325 (2016)
+  highlight: 0
+
+- title: "Proposal for a transmon-based quantum router"
   image: dummy.png
   description: placeholder
   authors: Arnau Sala, M. Blaauboer
   link:
     url: https://arxiv.org/abs/1509.05768
     display: J. Phys. Condens. Mat. **28**, 275701 (2016)
- highlight: 0
+  highlight: 0
 
-- title: "Local Kondo temperatures in atomic chains”
+- title: "Local Kondo temperatures in atomic chains"
   image: dummy.png
   description: placeholder
   authors: R.R Agundez, J. Salfi, S. Rogge, M. Blaauboer
   link:
     url: https://arxiv.org/abs/1408.6447
     display: Phys. Rev. B  **91**, 041117(R) (2015)
- highlight: 0
+  highlight: 0
 
-- title: "Adiabatic quantum pumping of chiral Majorana fermions”
+- title: "Adiabatic quantum pumping of chiral Majorana fermions"
   image: dummy.png
   description: placeholder 
   authors: M. Alos-Palop, R.P. Tiwari, M. Blaauboer
