@@ -13,7 +13,7 @@
   authors: M. Nagtegaal and M. Blaauboer  
   link:
     url: https://iopscience.iop.org/article/10.1088/1361-6455/aafbc0
-    display: J. Phys. B At. Mol. Opt. Phys. **52**, 045501 (2019) 
+    display: J. Phys. B: At. Mol. Opt. Phys. **52**, 045501 (2019) 
   highlight: 0
 
 - title: "Effect of transverse anisotropy on inelastic tunneling spectroscopy of atomic-scale magnetic chains" 
@@ -178,6 +178,32 @@
     display:  Nano Letters 10, 455 (2010)
   highlight: 0
 
+- title: "Implementation of the quantum walk step operator in lateral quantum dots"
+  image: dummy.png
+  description: placeholder
+  authors: K.A. van Hoogdalem and M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/0903.1236
+    display:  Phys. Rev. B ** 80**, 125309 (2009)
+  highlight: 0
+
+- title: "Modeling the decay of entanglement for electron spin qubits in quantum dots"
+  image: dummy.png
+  description: placeholder
+  authors: F. Bodoky, O. Gühne and M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/0809.3561
+    display: J. Phys.: Condens. Matter **21**, 395602 (2009)
+  highlight: 0
+
+- title: "Multiparticle entanglement under the influence of decoherence"
+  image: guhnefig.png
+  description: We present a method to determine the decay of multiparticle quantum correlations under the influence of decoherence quantified by the geometric measure of entanglement. Using this measure, we compare the robustness of entanglement in GHZ-, cluster-, W- and Dicke states of four qubits and show that the Dicke state is the most robust one. We also determine the geometric measure analytically for decaying GHZ and cluster states of an arbitrary number of qubits.
+  authors: O. Gühne, F. Bodoky and M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/0805.2873
+    display: Phys. Rev. A **78**, 060301(R) (2008)
+  highlight: 1
 
 
 - title: "Equivalence of pseudogap and pairing energy in a cuprate high-temperature superconductor"
