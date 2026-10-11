@@ -9,13 +9,15 @@ permalink: /publications/
 
 # Publications
 
+<div style="margin-bottom: 1.5em;"></div>
+
 ## Group highlights
 
-<div style="margin-bottom: 2.5em;"></div>
+<div style="margin-bottom: 1.5em;"></div>
 
 **At the end of this page, you can find the [full list of publications](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Blaauboer%2C+M&terms-0-field=author&terms-1-operator=NOT&terms-1-term=Blaauboer%2C+Mirre+J&terms-1-field=author&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first).**    
 
-<div style="margin-bottom: 1.5em;"></div>
+<div style="margin-bottom: 1.7em;"></div>
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -58,7 +60,7 @@ permalink: /publications/
 
 ## Full List of publications
 
-<div style="margin-bottom: 3.5em;"></div>
+<div style="margin-bottom: 2.0em;"></div>
 
 {% for publi in site.data.publist %}
 
