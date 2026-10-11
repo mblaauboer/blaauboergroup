@@ -106,6 +106,42 @@
     display: New J. Phys. **14**, 113003 (2012)
   highlight: 0
 
+- title: "Energy spectrum and exact cover in an extended quantum Ising model"
+  image: dummy.png
+  description: placeholder
+  authors: G.M.M. Wakker, R.M. Ockhorst, M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/1103.4091
+    display:  Phys. Rev. A **85**, 022337 (2012)
+  highlight: 0
+
+- title: "Magnetic-field probing of an SU(4) Kondo resonance in a single-atom transistor"
+  image: dummy.png
+  description: placeholder
+  authors: G.C. Tettamanzi, J. Verduijn, G.P. Lansbergen, M. Blaauboer, M.J. Calderon, R. Aguado, S. Rogge,
+  link:
+    url: https://arxiv.org/abs/1102.2977
+    display: Phys. Rev. Lett. **108**, 046803 (2012)
+  highlight: 0
+
+- title: "Localization and circulating currents in curved graphene devices"
+  image: dummy.png
+  description: placeholder
+  authors: G.M.M. Wakker, R.P. Tiwari and M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/1105.3588
+    display:  Phys. Rev. B **84**, 195427 (2011)
+  highlight: 0
+
+- title: "Adiabatic quantum pumping in normal metal-insulator-superconductor junctions in a monolayer of graphene"
+  image: dummy.png
+  description: placeholder
+  authors: M. Alos-Palop and M. Blaauboer
+  link:
+    url: https://arxiv.org/abs/1102.0926
+    display: Phys. Rev. B **84**, 073402 (2011)
+  highlight: 0
+
 
 - title: "Equivalence of pseudogap and pairing energy in a cuprate high-temperature superconductor"
   image: BSCCO_noise.png
