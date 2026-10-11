@@ -206,7 +206,7 @@
   highlight: 1
 
 - title: "An analytical decomposition protocol for optimal implementation of two-qubit entangling gates"
-  image: dummy.png 
+  image: devisser.png 
   description: This paper addresses the question how to implement a desired two-qubit gate U using a given tunable two-qubit entangling interaction Hint (t). We present a general protocol (based on the K1AK2 decomposition of unitary matrices) for calculating the smallest number of two-qubit gates [based on Hint(t)] and single-qubit rotations, and the explicit sequence of these operations that are required to implement U, illustrate our protocol for two types of interaction (Heisenberg exchange interaction and quantum inductive coupling) and discuss the relevance of our results for solid-state qubits.
   authors: M. Blaauboer and R.L. de Visser
   link:
@@ -229,7 +229,7 @@
   authors: R.L. de Visser and M. Blaauboer
   link:
     url: https://arxiv.org/abs/cond-mat/0603464
-    display: , Phys. Rev. Lett. **96**, 246801 (2006)
+    display: Phys. Rev. Lett. **96**, 246801 (2006)
   highlight: 0
 
 - title: "Detecting entanglement using a double-quantum-dot turnstile"
