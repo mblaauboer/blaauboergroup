@@ -85,8 +85,26 @@ Publications on general aspects of teaching, research, history of physics and so
 
 <div style="margin-bottom: 1.5em;"></div>
 
-These are columns I wrote for the [newsletter]{https://kavli.tudelft.nl/newsletter} of the Kavli Institute of Nanoscience Delft 
+These are columns I wrote for the [newsletter](https://kavli.tudelft.nl/newsletter) of the Kavli Institute of Nanoscience Delft 
 between 2013-2015
+
+<div style="margin-bottom: 1.5em;"></div>
+
+[Crowdfunding of research: valorisation at its best]({{ site.baseurl }}/downloads/Crowdfunding of research.pdf) (2015)
+
+A cheap and easy way to motivate people (2015)
+
+Peer review on ArXiv (2014)
+
+At the QApple Store (2014)
+
+Management meeting  (2014)
+
+Why engineers enjoy quantum (2013)
+
+Trust (2013)
+
+Langevin (2013)
 
 
 <div style="margin-bottom: 2.5em;"></div>
