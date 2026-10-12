@@ -146,7 +146,7 @@ Jump to [master's and bachelor's students](#student-section) and [alumni](#alumn
 
 <div class="col-sm-4" style="padding-left: 14px">       
 <h4>PhD students and postdocs</h4>
-{% for member in site.data.alumni_visitors %}
+{% for member in site.data.alumni_phdspostdocs %}
 {{ member.name }}
 {% endfor %}
 </div>
