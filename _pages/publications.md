@@ -86,7 +86,7 @@ Publications on general aspects of teaching, research, history of physics and so
 <div style="margin-bottom: 1.5em;"></div>
 
 These are columns I wrote for the [newsletter](https://kavli.tudelft.nl/newsletter) of the Kavli Institute of Nanoscience Delft 
-between 2013-2015
+between 2013-2015.
 
 <div style="margin-bottom: 2.5em;"></div>
 
