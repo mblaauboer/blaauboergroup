@@ -89,8 +89,8 @@ Quantum entanglement and locality (invited feature article), [EuroPhysics News *
 
 De Bell-ongelijkheid testen met elektronen, [NTvN **71**, 308-311 (2005)]({{ site.baseurl }}/downloads/Bell.pdf) - in Dutch
 
-
-
+I have also written poems for the ‘Dicht een Deeltje’ competition, which was organised by the Dutch Physical Society (NNV) in 2021. The assignment was to write a poem about a particle in the Standard Model, that not only has literary merit, but whose content is also physically accurate.
+Two of my poems, about the muon neutrino and the charm quark, won first prize - you can read all winning poems [here](https://www.natuurkunde.nl/artikelen/3669/het-standaardmodel-in-gedichten) (scroll down to the scheme of the standard model and click on the respective particle)
 
 
 ## Columns
