@@ -76,9 +76,21 @@ permalink: /publications/
 
 <div style="margin-bottom: 1.5em;"></div>
 
-Publications on general aspects of teaching, research, history of physics and society
+Publications on general aspects of teaching, research, history of physics and society (mostly in Dutch):
 
 <div style="margin-bottom: 2.0em;"></div>
+
+Hendrika J. van Leeuwen, [NTvN **81**, 8 (2015)]({{ site.baseurl }}/downloads/Hendrika van Leeuwen.pdf) - in Dutch
+(See also het [Digitaal lexicon van het Huygens Instituut](http://resources.huygens.knaw.nl/vrouwenlexicon/lemmata/data/Leeuwen)
+
+Nanosciencefiction (Review of the book “Spiral” by Paul McEuen), [NTvN **78**, 52 (2012)]({{ site.baseurl }}/downloads/Nanosciencefiction.pdf) - in Dutch
+
+Quantum entanglement and locality (invited feature article), [EuroPhysics News **41**, 17-21 (2010)](https://www.europhysicsnews.org/articles/epn/abs/2010/06/epn2010416p17/epn2010416p17.html)
+
+De Bell-ongelijkheid testen met elektronen, [NTvN **71**, 308-311 (2005)]({{ site.baseurl }}/downloads/Bell.pdf) - in Dutch
+
+
+
 
 
 ## Columns
