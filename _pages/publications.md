@@ -80,19 +80,20 @@ Publications on general aspects of teaching, research, history of physics and so
 
 <div style="margin-bottom: 2.5em;"></div>
 
-[Hendrika J. van Leeuwen]({{ site.baseurl }}/downloads/Hendrika van Leeuwen.pdf), NTvN **81**, 8 (2015) - in Dutch
-(See also het [digitaal lexicon](http://resources.huygens.knaw.nl/vrouwenlexicon/lemmata/data/Leeuwen)) van het Huygens Instituut
+-[Hendrika J. van Leeuwen]({{ site.baseurl }}/downloads/Hendrika van Leeuwen.pdf), NTvN **81**, 8 (2015) - in Dutch
+<div style="margin-bottom: 0.5em;"></div>
+(See also het [digitaal lexicon](http://resources.huygens.knaw.nl/vrouwenlexicon/lemmata/data/Leeuwen) van het Huygens Instituut)
 
-[Nanosciencefiction]({{ site.baseurl }}/downloads/Nanosciencefiction.pdf) (Review of the book “Spiral” by Paul McEuen), NTvN **78**, 52 (2012) - in Dutch
+-[Nanosciencefiction]({{ site.baseurl }}/downloads/Nanosciencefiction.pdf) (Review of the book “Spiral” by Paul McEuen), NTvN **78**, 52 (2012) - in Dutch
 
-Quantum entanglement and locality (invited feature article), [EuroPhysics News **41**, 17-21 (2010)](https://www.europhysicsnews.org/articles/epn/abs/2010/06/epn2010416p17/epn2010416p17.html)
+-Quantum entanglement and locality (invited feature article), [EuroPhysics News **41**, 17-21 (2010)](https://www.europhysicsnews.org/articles/epn/abs/2010/06/epn2010416p17/epn2010416p17.html)
 
-[De Bell-ongelijkheid testen met elektronen]({{ site.baseurl }}/downloads/Bell.pdf), NTvN **71**, 308-311 (2005) - in Dutch
+-[De Bell-ongelijkheid testen met elektronen]({{ site.baseurl }}/downloads/Bell.pdf), NTvN **71**, 308-311 (2005) - in Dutch
 
-<div style="margin-bottom: 1.5em;"></div>
+<div style="margin-bottom: 2.em;"></div>
 
 I have also written poems for the ‘Dicht een Deeltje’ competition, which was organised by the Dutch Physical Society (NNV) in 2021. The assignment was to write a poem about a particle in the Standard Model, that not only has literary merit, but whose content is also physically accurate.
-<div style="margin-bottom: 1.5em;"></div>
+<div style="margin-bottom: 1.em;"></div>
 Two of my poems, about the muon neutrino and the charm quark, won first prize in their respective categories - you can read all winning poems [here](https://www.natuurkunde.nl/artikelen/3669/het-standaardmodel-in-gedichten) (scroll down to the scheme of the standard model and click on the respective particle)
 
 
