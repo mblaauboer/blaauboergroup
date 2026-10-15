@@ -1,6 +1,6 @@
 - name: Miriam Blaauboer
-  photo: Miriam-Blaauboer.jpg
-  info: Group leader, <a href="https://www.linkedin.com/in/miriam-blaauboer-45a8a932" target="_blank"><img src="/blaauboergroup/images/teampic/linkedin.png" alt="LinkedIn" width="20" style="vertical-align: middle" /></a>
+  photo: miriam-blaauboer.jpg
+  info: Group leader, <a href="https://www.linkedin.com/in/miriam-blaauboer-45a8a932" target="_blank"><img src="/blaauboergroup/images/teampic/LinkedInlogo.png" alt="LinkedIn" width="20" style="vertical-align: middle" /></a>
   email: m.blaauboer[at]tudelft.nl
   #number_educ: 0
   #education1: dummy
@@ -10,7 +10,7 @@
   #education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
 
 - name: Lizzy Groote
-  photo: Lizzy Groote.jpg
+  photo: lizzy-groote.jpg
   info: Management assistant
   email: L.Groote@tudelft.nl
   
