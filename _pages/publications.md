@@ -81,7 +81,7 @@ Publications on general aspects of teaching, research, history of physics and so
 <div style="margin-bottom: 2.5em;"></div>
 
 - [Hendrika J. van Leeuwen]({{ site.baseurl }}/downloads/Hendrika van Leeuwen.pdf), NTvN **81**, 8 (2015) - in Dutch
-<div style="margin-bottom: 0.1em;"></div><br>   (See also het [digitaal lexicon](http://resources.huygens.knaw.nl/vrouwenlexicon/lemmata/data/Leeuwen) van het Huygens Instituut)
+<div style="margin-bottom: 0.1em;"></div><br>(See also het [digitaal lexicon](http://resources.huygens.knaw.nl/vrouwenlexicon/lemmata/data/Leeuwen) van het Huygens Instituut)
 
 - [Nanosciencefiction]({{ site.baseurl }}/downloads/Nanosciencefiction.pdf) (Review of the book “Spiral” by Paul McEuen), NTvN **78**, 52 (2012) - in Dutch
 
@@ -90,7 +90,7 @@ Publications on general aspects of teaching, research, history of physics and so
 - [De Bell-ongelijkheid testen met elektronen]({{ site.baseurl }}/downloads/Bell.pdf), NTvN **71**, 308-311 (2005) - in Dutch
 
 
-<div style="margin-bottom: 2.0em;"></div>
+<div style="margin-bottom: 2.5em;"></div>
 
 ## Columns and other items
 
@@ -119,8 +119,6 @@ between 2013-2015.
 
 <div style="margin-bottom: 2.5em;"></div>
 
-I wrote a few poems for the ‘Dicht een Deeltje’ competition, organised by the Dutch Physical Society (NNV) in 2021. The assignment was to write a poem about a particle in the Standard Model that not only has literary merit, but whose content is also physically accurate.
-<div style="margin-bottom: 0.1em;"></div><br>
-Two of my poems, about the muon neutrino and the charm quark, won first prize in their respective categories. You can read all winning poems [here](https://www.natuurkunde.nl/artikelen/3669/het-standaardmodel-in-gedichten) (scroll down to the scheme of the standard model and click on the respective particle)
+In 2021, the Dutch Physical Society (NNV) hosted the ‘Dicht een Deeltje’ competition, challenging participants to write poems about particles in the Standard Model that combine literary quality with physical accuracy. My entries for the muon neutrino and the charm quark were awarded first prize in their categories and can be read alongside the other winners [here](https://www.natuurkunde.nl/artikelen/3669/het-standaardmodel-in-gedichten) (scroll down to the blue Standard Model diagram and select the particle).
 
 <div style="margin-bottom: 2.5em;"></div>
