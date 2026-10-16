@@ -1,6 +1,6 @@
 - name: Miriam Blaauboer
   photo: miriam-blaauboer.jpg
-  info: 'Group leader <a href="https://www.linkedin.com/in/miriam-blaauboer-45a8a932" target="_blank"><img src="/blaauboergroup/images/teampic/LinkedInlogo.png" alt="LinkedIn" width="30" style="vertical-align: middle" /></a>'
+  info: 'Group leader <a href="https://www.linkedin.com/in/miriam-blaauboer-45a8a932" target="_blank"><img src="/blaauboergroup/images/teampic/LinkedInlogo.png" alt="LinkedIn" width="30" style="vertical-align: middle; margin-left: 6px; position: relative; top: -3px;"/></a>'
   email: m.blaauboer[at]tudelft.nl
   #number_educ: 0
   #education1: dummy
