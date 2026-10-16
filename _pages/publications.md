@@ -11,7 +11,7 @@ permalink: /publications/
 
 <div style="margin-bottom: 1.5em;"></div>
 
-**At the end of this page, you can find the [full list of scientific publications](#full-list-of-publications) of our group, as well as [popular articles](#popular-articles) and [columns](#columns) I wrote on research, education, history of physics and society. All scientific papers are also available on [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Blaauboer%2C+M&terms-0-field=author&terms-1-operator=NOT&terms-1-term=Blaauboer%2C+Mirre+J&terms-1-field=author&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first).**    
+**At the end of this page, you can find the [full list of scientific publications](#full-list-of-publications) of our group, as well as [popular articles](#popular-articles) and [columns](#columns-and-other-items) I wrote on research, education, history of physics and society. All scientific papers are also available on [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Blaauboer%2C+M&terms-0-field=author&terms-1-operator=NOT&terms-1-term=Blaauboer%2C+Mirre+J&terms-1-field=author&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first).**    
 
 <div style="margin-bottom: 1.5em;"></div>
 
@@ -78,7 +78,7 @@ permalink: /publications/
 
 Publications on general aspects of teaching, research, history of physics and society (mostly in Dutch):
 
-<div style="margin-bottom: 2.em;"></div>
+<div style="margin-bottom: 2.1em;"></div>
 
 - [Hendrika J. van Leeuwen]({{ site.baseurl }}/downloads/Hendrika van Leeuwen.pdf), NTvN **81**, 8 (2015) – in Dutch<br>
   (See also het [digitaal lexicon](http://resources.huygens.knaw.nl/vrouwenlexicon/lemmata/data/Leeuwen) van het Huygens Instituut)
@@ -99,7 +99,7 @@ Publications on general aspects of teaching, research, history of physics and so
 These are columns I wrote for the [newsletter](https://kavli.tudelft.nl/newsletter) of the Kavli Institute of Nanoscience Delft 
 between 2013-2015:
 
-<div style="margin-bottom: 2.em;"></div>
+<div style="margin-bottom: 2.1em;"></div>
 
 - [Crowdfunding of research: valorisation at its best]({{ site.baseurl }}/downloads/Crowdfunding of research.pdf) (2015)
 
@@ -121,4 +121,4 @@ between 2013-2015:
 
 [Elementary particle poetry](https://www.natuurkunde.nl/artikelen/3669/het-standaardmodel-in-gedichten): In 2021, the Dutch Physical Society (NNV) hosted the ‘Dicht een Deeltje’ competition, challenging participants to write poems (in Dutch) about particles in the Standard Model that combine literary quality with physical accuracy. My entries for the muon neutrino and the charm quark were awarded first prize in their categories and can be read alongside the other winners [here](https://www.natuurkunde.nl/artikelen/3669/het-standaardmodel-in-gedichten) (scroll down to the blue Standard Model diagram and select the particle).<br>
 
-<div style="margin-bottom: 6em;"></div>
+<div style="margin-bottom: 4em;"></div>
