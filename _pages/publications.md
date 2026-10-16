@@ -81,12 +81,11 @@ Publications on general aspects of teaching, research, history of physics and so
 <div style="margin-bottom: 2.5em;"></div>
 
 - [Hendrika J. van Leeuwen]({{ site.baseurl }}/downloads/Hendrika van Leeuwen.pdf), NTvN **81**, 8 (2015) - in Dutch
-<div style="margin-bottom: 0.1em;"></div>
-(See also het [digitaal lexicon](http://resources.huygens.knaw.nl/vrouwenlexicon/lemmata/data/Leeuwen) van het Huygens Instituut)
+<div style="margin-bottom: 0.1em;"></div><br>   (See also het [digitaal lexicon](http://resources.huygens.knaw.nl/vrouwenlexicon/lemmata/data/Leeuwen) van het Huygens Instituut)
 
 - [Nanosciencefiction]({{ site.baseurl }}/downloads/Nanosciencefiction.pdf) (Review of the book “Spiral” by Paul McEuen), NTvN **78**, 52 (2012) - in Dutch
 
-- Quantum entanglement and locality (invited feature article), [EuroPhysics News **41**, 17-21 (2010)](https://www.europhysicsnews.org/articles/epn/abs/2010/06/epn2010416p17/epn2010416p17.html)
+- [Quantum entanglement and locality](https://www.europhysicsnews.org/articles/epn/abs/2010/06/epn2010416p17/epn2010416p17.html) (invited feature article), EuroPhysics News **41**, 17-21 (2010)
 
 - [De Bell-ongelijkheid testen met elektronen]({{ site.baseurl }}/downloads/Bell.pdf), NTvN **71**, 308-311 (2005) - in Dutch
 
@@ -100,7 +99,7 @@ Publications on general aspects of teaching, research, history of physics and so
 These are columns I wrote for the [newsletter](https://kavli.tudelft.nl/newsletter) of the Kavli Institute of Nanoscience Delft 
 between 2013-2015.
 
-<div style="margin-bottom: 2.em;"></div>
+<div style="margin-bottom: 2.3em;"></div>
 
 [Crowdfunding of research: valorisation at its best]({{ site.baseurl }}/downloads/Crowdfunding of research.pdf) (2015)
 
