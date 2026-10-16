@@ -78,11 +78,10 @@ permalink: /publications/
 
 Publications on general aspects of teaching, research, history of physics and society (mostly in Dutch):
 
-<div style="margin-bottom: 2.5em;"></div>
+<div style="margin-bottom: 2.3em;"></div>
 
-- [Hendrika J. van Leeuwen]({{ site.baseurl }}/downloads/Hendrika van Leeuwen.pdf), NTvN **81**, 8 (2015) - in Dutch
-<div style="margin-bottom: 0.1em;"></div><br>
-   (See also het [digitaal lexicon](http://resources.huygens.knaw.nl/vrouwenlexicon/lemmata/data/Leeuwen) van het Huygens Instituut)
+- [Hendrika J. van Leeuwen]({{ site.baseurl }}/downloads/Hendrika van Leeuwen.pdf), NTvN **81**, 8 (2015) – in Dutch<br>
+  (See also het [digitaal lexicon](http://resources.huygens.knaw.nl/vrouwenlexicon/lemmata/data/Leeuwen) van het Huygens Instituut)
 
 - [Nanosciencefiction]({{ site.baseurl }}/downloads/Nanosciencefiction.pdf) (Review of the book “Spiral” by Paul McEuen), NTvN **78**, 52 (2012) - in Dutch
 
@@ -98,28 +97,28 @@ Publications on general aspects of teaching, research, history of physics and so
 <div style="margin-bottom: 1.5em;"></div>
 
 These are columns I wrote for the [newsletter](https://kavli.tudelft.nl/newsletter) of the Kavli Institute of Nanoscience Delft 
-between 2013-2015.
+between 2013-2015:
 
 <div style="margin-bottom: 2.3em;"></div>
 
-[Crowdfunding of research: valorisation at its best]({{ site.baseurl }}/downloads/Crowdfunding of research.pdf) (2015)
+- [Crowdfunding of research: valorisation at its best]({{ site.baseurl }}/downloads/Crowdfunding of research.pdf) (2015)
 
-[A cheap and easy way to motivate people]({{ site.baseurl }}/downloads/Motivating people.pdf) (2015)
+- [A cheap and easy way to motivate people]({{ site.baseurl }}/downloads/Motivating people.pdf) (2015)
 
-[Peer review on ArXiv]({{ site.baseurl }}/downloads/Peer review.pdf) (2014)
+- [Peer review on ArXiv]({{ site.baseurl }}/downloads/Peer review.pdf) (2014)
 
-[At the QApple Store]({{ site.baseurl }}/downloads/QApple store.pdf) (2014)
+- [At the QApple Store]({{ site.baseurl }}/downloads/QApple store.pdf) (2014)
 
-[Management meeting]({{ site.baseurl }}/downloads/Management meeting.pdf)  (2014)
+- [Management meeting]({{ site.baseurl }}/downloads/Management meeting.pdf)  (2014)
 
-[Why engineers enjoy quantum]({{ site.baseurl }}/downloads/Engineers and quantum.pdf) (2013)
+- [Why engineers enjoy quantum]({{ site.baseurl }}/downloads/Engineers and quantum.pdf) (2013)
 
-[Trust]({{ site.baseurl }}/downloads/Trust.pdf) (2013)
+- [Trust]({{ site.baseurl }}/downloads/Trust.pdf) (2013)
 
-[Langevin]({{ site.baseurl }}/downloads/Langevin.pdf) (2013)
-
-<div style="margin-bottom: 2.5em;"></div>
-
-**Elementary particle poetry**: In 2021, the Dutch Physical Society (NNV) hosted the ‘Dicht een Deeltje’ competition, challenging participants to write poems (in Dutch) about particles in the Standard Model that combine literary quality with physical accuracy. My entries for the muon neutrino and the charm quark were awarded first prize in their categories and can be read alongside the other winners [here](https://www.natuurkunde.nl/artikelen/3669/het-standaardmodel-in-gedichten) (scroll down to the blue Standard Model diagram and select the particle).
+- [Langevin]({{ site.baseurl }}/downloads/Langevin.pdf) (2013)
 
 <div style="margin-bottom: 2.5em;"></div>
+
+Elementary particle poetry: In 2021, the Dutch Physical Society (NNV) hosted the ‘Dicht een Deeltje’ competition, challenging participants to write poems (in Dutch) about particles in the Standard Model that combine literary quality with physical accuracy. My entries for the muon neutrino and the charm quark were awarded first prize in their categories and can be read alongside the other winners [here](https://www.natuurkunde.nl/artikelen/3669/het-standaardmodel-in-gedichten) (scroll down to the blue Standard Model diagram and select the particle).
+
+<div style="margin-bottom: 3.em;"></div>
