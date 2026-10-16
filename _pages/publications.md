@@ -78,7 +78,7 @@ permalink: /publications/
 
 Publications on general aspects of teaching, research, history of physics and society (mostly in Dutch):
 
-<div style="margin-bottom: 2.2em;"></div>
+<div style="margin-bottom: 2.em;"></div>
 
 - [Hendrika J. van Leeuwen]({{ site.baseurl }}/downloads/Hendrika van Leeuwen.pdf), NTvN **81**, 8 (2015) – in Dutch<br>
   (See also het [digitaal lexicon](http://resources.huygens.knaw.nl/vrouwenlexicon/lemmata/data/Leeuwen) van het Huygens Instituut)
@@ -99,7 +99,7 @@ Publications on general aspects of teaching, research, history of physics and so
 These are columns I wrote for the [newsletter](https://kavli.tudelft.nl/newsletter) of the Kavli Institute of Nanoscience Delft 
 between 2013-2015:
 
-<div style="margin-bottom: 2.2em;"></div>
+<div style="margin-bottom: 2.em;"></div>
 
 - [Crowdfunding of research: valorisation at its best]({{ site.baseurl }}/downloads/Crowdfunding of research.pdf) (2015)
 
@@ -119,6 +119,6 @@ between 2013-2015:
 
 <div style="margin-bottom: 2.5em;"></div>
 
-*Elementary particle poetry*: In 2021, the Dutch Physical Society (NNV) hosted the ‘Dicht een Deeltje’ competition, challenging participants to write poems (in Dutch) about particles in the Standard Model that combine literary quality with physical accuracy. My entries for the muon neutrino and the charm quark were awarded first prize in their categories and can be read alongside the other winners [here](https://www.natuurkunde.nl/artikelen/3669/het-standaardmodel-in-gedichten) (scroll down to the blue Standard Model diagram and select the particle).
+[Elementary particle poetry](https://www.natuurkunde.nl/artikelen/3669/het-standaardmodel-in-gedichten): In 2021, the Dutch Physical Society (NNV) hosted the ‘Dicht een Deeltje’ competition, challenging participants to write poems (in Dutch) about particles in the Standard Model that combine literary quality with physical accuracy. My entries for the muon neutrino and the charm quark were awarded first prize in their categories and can be read alongside the other winners [here](https://www.natuurkunde.nl/artikelen/3669/het-standaardmodel-in-gedichten) (scroll down to the blue Standard Model diagram and select the particle).<br>
 
 <div style="margin-bottom: 4.em;"></div>
