@@ -30,7 +30,7 @@ Feel free to contact us - we can help you write the application.
 
 **Master/bachelor projects for TU Delft students**
 
-For information on possible MSc or BSc thesis projects, please contact Miriam at <m.blaauboer[at]tudelft.nl>.
+For information on possible MSc or BSc thesis projects, please contact me at <m.blaauboer[at]tudelft.nl>.
 
 <div style="margin-bottom: 4em;"></div>
 
