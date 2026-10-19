@@ -80,6 +80,8 @@ Publications on general aspects of teaching, research, history of physics and so
 
 <div style="margin-bottom: 2.1em;"></div>
 
+- [H. Johanna van Leeuwen, the Other Scientist behind the Bohr-Van Leeuwen Theorem](https://www.cambridge.org/core/books/abs/women-in-the-history-of-quantum-physics/h-johanna-van-leeuwen-the-other-scientist-behind-the-bohrvan-leeuwen-theorem/C5F55FB0158ACF124CC7B04B84DE6263), Miriam Blaauboer and Margriet van der Heijden, Book chapter in *Women in the History of Quantum Physics - beyond Knabenphysik* (Cambridge University Press, 2025).
+
 - [Hendrika J. van Leeuwen]({{ site.baseurl }}/downloads/Hendrika van Leeuwen.pdf), NTvN **81**, 8 (2015) – in Dutch<br>
   (See also het [digitaal lexicon](http://resources.huygens.knaw.nl/vrouwenlexicon/lemmata/data/Leeuwen) van het Huygens Instituut)
 
